@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vodovoz</string>
+    <string name="error">При загрузке данных произошла ошибка</string>
+    <string name="empty">Список пуст</string>
+</resources>
